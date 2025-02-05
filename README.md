@@ -1,2 +1,4 @@
-# git.conf
+git.conf
+========
+
 My personal configuration for git 🏷️
